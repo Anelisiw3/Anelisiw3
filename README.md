@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anelisiwe Mtati and I'm a Web Developer  from Johannesburg</h2>
+<h2 align="left">Hi 👋! My name is Anelisiwe Mtati and <br>
+  I'm a Web Developer  from Johannesburg</h2>
 
 ###
 
